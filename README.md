@@ -2,30 +2,20 @@ FinalFantasyXIV_ARR_Tools
 =========================
 FinalFantasyXIV_ARR_Tools
 =========================
-sorry. japanese only.
+This is my translation and tweaking of chocopon/FinalFantasyXIV_ARR_Tools
 
-Final Fantasy XIV ARRのツールを開発しています。
+We have developed a tool for Final Fantasy XIV ARR.
 
-chocorep    
- repです。
- http://ff14.room301.net/a-reborn/4822
+chocorep
+It is a rep. http://ff14.room301.net/a-reborn/4822
 
-takotaninfo
- 真タイタン戦専用のツール。タイタンの次の技がわります。
- http://ff14.room301.net/a-reborn/4983
+takotaninfo true Titan warfare dedicated tool. Divide the following tricks of Titan. http://ff14.room301.net/a-reborn/4983
 
-FFXIVLogAnalyze
- ログをパース、集計するライブラリ
- dot集計のために無理な作りになっている
- 設計から見直しが必要？
+Perth the FFXIVLogAnalyze log, need to be reviewed from the design that has become unreasonable made for aggregate libraries dot counting?
 
-FFXIVLibrary
- FFXIVのメモリ空間等のリソースにアクセスするためのライブラリ
- ログの位置の取得はサーチにて行っているが、
- サーチでなくてオフセットから決め打ちできるのが望ましい。
- 
- ■ 利用方法
-  VisualStudioのソリューションをまるまるアップしてあります。
- FinalFantasyXIV_ARR_Tools内のすべてのファイル、フォルダを取得して
- FFXIVARR_Tools.slnを開いてください。
- 
+Acquisition of the position of the library logs to access resources in the memory space such as FFXIVLibrary FFXIV is doing in the search, but it is desirable can be hardcoded the offset to be the search.
+
+ ■ How to Use
+  I would open up the solution in VisualStudio.
+  All the files are in the FinalFantasyXIV_ARR_Tools folder.
+  Please open the FFXIVARR_Tools.sln.
